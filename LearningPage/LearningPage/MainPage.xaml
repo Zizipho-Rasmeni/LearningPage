@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningPage.MainPage">
+
+    <StackLayout>
+
+        <Frame BackgroundColor="White" Padding="0"/>
+        <Label Text="Learning Page " HorizontalTextAlignment="Center" TextColor="Black" FontSize="Large" BackgroundColor="White"/>
+        <Image Source="learning.png" WidthRequest="1000"/>
+
+        <Label Text="4 Benefits of Recycling South Africa's Waste Recycling assists in the preservation of our natural resources. When working together, South Africans can make a massive difference by recycling and reusing materials to keep them out of landfills.Recycling reduces the effects of climate change.We see it as an opportunity to make money and contribute towards a circular economy, which is more sustainable for the future of our planet.We can all play a part in reducing waste to landfill. Now, more than ever before, South Africans are recycling their waste. South Africans are playing a bigger role in helpingsave the planet. " HorizontalTextAlignment="Center" TextColor="Black" FontSize="Small" BackgroundColor="White"/>
+
+        <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+
+
+            <ImageButton x:Name="Videos" Source ="video.png" WidthRequest="125" Clicked="Videos_Clicked" Margin="20"  />
+            <ImageButton x:Name="Blogs"  Source="download.jpg" WidthRequest="120"  Clicked="Blogs_Clicked" Margin="20"/>
+
+        </StackLayout>
+
+
+    </StackLayout>
+
+</ContentPage>
