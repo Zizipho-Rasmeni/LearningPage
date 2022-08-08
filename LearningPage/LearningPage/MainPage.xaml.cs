@@ -13,17 +13,18 @@ namespace LearningPage
         public MainPage()
         {
             InitializeComponent();
+
         }
 
 
         private void Blogs_Clicked(object sender, EventArgs e)
         {
-           // Navigation.PushAsync(new Blogs());
+          Navigation.PushAsync(new Blogs());
         }
 
         private void Videos_Clicked(object sender, EventArgs e)
         {
-           // Navigation.PushAsync(new Video());
+            Navigation.PushAsync(new Video());
         }
     }
 }

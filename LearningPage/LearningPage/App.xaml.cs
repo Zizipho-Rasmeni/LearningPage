@@ -6,15 +6,22 @@ namespace LearningPage
 {
     public partial class App : Application
     {
+        public Color BarBackgroundColor { get; private set; }
+
         public App()
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
+
+            {
+                BarBackgroundColor = Color.Green;
+            }
         }
 
         protected override void OnStart()
         {
+
         }
 
         protected override void OnSleep()

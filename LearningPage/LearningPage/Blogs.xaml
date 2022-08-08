@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LearningPage.Blogs">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BackgroundColor="White" Padding="0"/>
+            <Label Text="Blogs " HorizontalTextAlignment="Center" TextColor="Black" FontSize="Large" BackgroundColor="White"/>
+            <Image Source="blogsimage" WidthRequest="1000"/>
+
+            <Label Text="4 Benefits of Recycling South Africa's Waste Recycling assists in the preservation of our natural resources. When working together, South Africans can make a massive difference by recycling and reusing materials to keep them out of landfills.Recycling reduces the effects of climate change.We see it as an opportunity to make money and contribute towards a circular economy, which is more sustainable for the future of our planet.We can all play a part in reducing waste to landfill. Now, more than ever before, South Africans are recycling their waste. South Africans are playing a bigger role in helpingsave the planet. " HorizontalTextAlignment="Center" TextColor="Black" FontSize="Small" BackgroundColor="White"/>
+
+            <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+
+                
+
+            </StackLayout>
+
+            <Label Text="Recycling is now something of a necessity for homeowners, businesses and commercial organisations across Britain.  Reducing the levels of waste we produce is an important part of working to protect the environment in the long term, and a key to this is the process of recycling.  Through increasing rates of recycling, we can decrease the levels of waste we send to landfill and save costs on waste collections and waste management, thus reducing the negative environmental impact of landfill waste on the environment.
+
+If you want to find out more about recycling, and the advantages it can bring to your business, this page will give you a comprehensive overview of everything you need to know. Please note you are not allowed to copy or reproduce any of the content on this page. You must credit BusinessWaste.co.uk with any citations. Also heads up kids all teachers know about this page so don't get caught copying it verbatim. If you are looking to start an office recycling scheme click here.
+
+What is recycling?
+It may seem like a basic question to ask, but it is also an important one.  Having a thorough understanding of recycling is the first step, after all, to ensure that your business can move towards a greener waste disposal strategy.  Here then, we explain exactly what recycling is.
+Essentially, recycling is the process whereby materials are reused in order to make or manufacture new products.  Therefore, instead of dumping material into a landfill site where it will simply sit in the ground, recycling aims to use this material as a resource which can continue to be useful.  It is important to note that not all material is recyclable.  For instance, hazardous waste is not recyclable.  However, a large range of materials are recyclable and this is often indicated on the material itself.  The fact that large amounts of waste are recyclable means that it is possible for businesses to vastly reduce the amount of waste material they send to landfill sites through implementing proper recycling processes.  In turn, it is, therefore, possible to significantly reduce the damage caused to the environment through recycling.
+
+The latest recycling figures show that the UK recycles 17.7% of its waste overall.
+
+Recyclable materials include:
+
+Paper
+Cardboard
+Plastics
+Glass
+Bricks, wood, rubble and other building site material
+Metal
+Green waste and soil
+Why do we recycle?
+You might be asking yourself why there is such a focus on recycling.  Here we outline the core reasons behind the push to get homeowners and businesses to recycle more of their waste.
+1. Reduce Pollution
+
+Recycling means that material that would otherwise be classed as waste and simply left to sit in the ground can now be reused.  Through reusing materials we can decrease the demand for new materials.  Through this process, we can reduce the levels of pollution which are emitted as we create new materials.  In addition to this, waste stored in landfill sites can contribute towards damaging the environment, so avoiding unnecessarily stuffing waste into landfill is highly desirable.
+
+2. Lower costs
+
+Recycling makes financial as well as environmental sense for businesses.  The cost of using recycled material is much less than the cost of creating brand new material with which to work.  therefore, through using recycled materials, businesses can lower their costs.  When recycling is implemented on a large scale, the savings that can be made can be hugely significant.
+
+3. Saving energy
+
+In a similar way to reducing costs, the recycling material is much more energy-efficient than creating new material.  Therefore, increased recycling can lead to lower levels of energy consumption.  A decrease in energy consumption can lead to less energy needing to be created, which in turn leads to less pollution being created and, overall, reduces environmental damage.
+
+4. Cultivating a green image
+
+Recycling is now an important part of life, and businesses that do not recycle are increasingly being viewed in a negative light.  Therefore, it is beneficial for businesses to be seen to be environmentally responsible.  As people increasingly become aware of the environmental damage caused by landfill waste, the process of recycling becomes even more championed.  Those who take their environmental responsibilities seriously are seen as desirable partners, and those who do not can find that their perceived irresponsibility can be a big disadvantage to them.  From a business perspective, being green makes a lot of sense.
+
+What are advantages of recycling
+Recycling carries with it a number of benefits, some of which have been mentioned already.  Here we go into more detail about the benefits recycling has not only for businesses but also for the environment and the planet as a whole.
+The primary benefit of recycling is that it helps to protect the environment.  With the threat of global warming growing ever more serious and extreme weather conditions becoming more frequent, steps that help to protect the environment are rightfully seen as very important.  Recycling is one of these steps which it is relatively easy for businesses and homeowners across Britain to participate in meaningfully.
+
+So we know recycling is said to be good for the environment generally, but what environmental issues does recycling specifically help to remedy?
+
+1. Global warming and pollution
+
+As we have touched on, recycling can help remove the problem posed by huge volumes of waste which are simply dumped at sites and still need to be dealt with.  in many cases, this waste is simply burned.  However, doing so releases great volumes of C02 into the air, something which can contribute significantly to the problem of global warming when carried out on a large scale.  If increasing volumes of waste are recycled this means that the volumes of waste which are simply burnt, releasing harmful volumes of gasses into the air, are decreased.  In this way, recycling can contribute to tackling one of the causes of global warming and pollution.
+
+2. Protect the environment and animal habitats
+
+Landfill sites and sites where waste is burnt have a hugely detrimental effect on the environment which surrounds them.  These sites can damage animals' habitats beyond repair.  This is especially concerning where the habitats of rare or endangered species are jeopardized.  Through recycling, we can reduce the need for these damaging waste sites by reducing the amount of waste that is sent to them.  Through working to reuse materials rather than simply discard them, we can protect the environment and help to preserve the natural habitats rather than destroying them.
+
+3. Conserve natural resources
+
+As recycling involves reusing resources it can help conserve the planet's natural resources. Rather than extracting raw materials from the earth, recycling provides us with a more environmentally friendly alternative.  Decreasing the demand for raw materials can also help stop large parts of forestation, such as the amazon, from being destroyed in the search for the natural resources within.  In this way, recycling can help us slow the rate at which we extract and mine minerals and other resources from the earth, thus protecting and helping to conserve the earth's natural resources for future generations.
+
+The verdict on recycling
+
+Overall, recycling can prove to be a beneficial process for both businesses and the environment as a whole.  Helping to conserve natural resources, reduce levels of pollution and tackle some of the root causes of global warming, recycling can clearly have a positive effect on the environment.  Increasingly, a culture of recycling is forming in Britain.  This culture envelopes both homes and businesses, with people now placing a keen emphasis on environmental responsibility.  Within this culture, it pays for businesses to take recycling seriously, demonstrating that they are environmentally conscious as many of their customers will demand."></Label>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
